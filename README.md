@@ -8,5 +8,5 @@
 # Usage
 * 1.) Put in your information in the `config.py`
 * 2.) CD into your bot folder location
-* 3.) Execite `python bot.py`
+* 3.) Execute `python bot.py`
 * 4.) You are officially now a expert programmer.
